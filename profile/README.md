@@ -1,12 +1,12 @@
 <div align="center">
   <br />
-  <img src="./frontend/public/spoparty-logo.png" alt="SPOPARTY" />
+  <img src="https://github.com/SPOPARTY/SPOPARTY/raw/develop/frontend/public/spoparty-logo.png" alt="SPOPARTY" />
   <br />
   <h1>실시간 축구 시청 화상 모임 플랫폼</h1>
   <br />
 </div>
 <div>
-<img src="img/main.png" alt="mainPage"/>
+<img src="https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/main.png" alt="mainPage"/>
 </div>
 <hr>
 
