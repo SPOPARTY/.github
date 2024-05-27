@@ -87,11 +87,11 @@
 
 |                 시스템 구성                  |
 |:---------------------------------------:|
-| ![Architecture1](img/Architecture1.png)](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/Architecture1.png) |
+| ![Architecture1](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/Architecture1.png) |
 
 |              CI/CD 배포 흐름도               |
 |:---------------------------------------:|
-| ![Architecture2](img/Architecture2.png)](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/Architecture2.png) |
+| ![Architecture2](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/Architecture2.png) |
 
 | 디렉토리 구조 |
 |:-------:|
@@ -248,9 +248,9 @@ Project
 
 |                ERD                 |
 |:----------------------------------:|
-| ![ERD_Total](img/SPOPARTY_ERD.png)](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/SPOPARTY_ERD.png) |
-| ![ERD_1](img/SPOPARTY_ERD_1.PNG)](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/SPOPARTY_ERD_1.PNG)  |
-| ![ERD_2](img/SPOPARTY_ERD_2.PNG )](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/SPOPARTY_ERD_2.PNG)  |
+| ![ERD_Total](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/SPOPARTY_ERD.png) |
+| ![ERD_1](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/SPOPARTY_ERD_1.PNG)  |
+| ![ERD_2](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/SPOPARTY_ERD_2.PNG)  |
 
 <br />
 
@@ -270,7 +270,7 @@ Project
 - 클럽멤버들과 축구 시청을 위한 파티를 만들어 함께 응원해 보아요!
 - 실시간 경기 URL과 경기 정보를 입력하면, 친구들과 함께 같은 경기를 시청할 수 있어요.
 - 캠과 오디오, 채팅창을 통해 친구들과 소통할 수 있어요.<br/>
-  [![화상통화](img/파티_화상통화.gif)](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/%ED%8C%8C%ED%8B%B0_%ED%99%94%EC%83%81%ED%86%B5%ED%99%94.gif)
+  ![화상통화](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/%ED%8C%8C%ED%8B%B0_%ED%99%94%EC%83%81%ED%86%B5%ED%99%94.gif)
 
 ### 파티 내 오락거리
 
@@ -278,7 +278,7 @@ Project
 
 - 10분 뒤에 저 선수가 골을 넣을 수 있을지, 없을지. 내가 응원하는 팀이 전반전 동안 우세를 점할지, 골 점유율은 어떻게 될지. 미래를 점치면서 경기를 즐겨보아요!
 - 예측이 틀렸으면? 어딜가려고 해요? 이리와서 벌칙 받아요! 투표 결과에 따라 다양한 벌칙을 받을 수 있어요<br/>
-  [![투표](img/파티_투표.gif)](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/%ED%8C%8C%ED%8B%B0_%ED%88%AC%ED%91%9C.gif)
+  ![투표](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/%ED%8C%8C%ED%8B%B0_%ED%88%AC%ED%91%9C.gif)
 
 #### 사진/영상 촬영
 
@@ -286,26 +286,26 @@ Project
 - 다시 돌아오지 않을 이 순간을 귀중하게 간직한다면 어떨까요?
 - 지나고 돌이켜보면 아름다운 추억의 오아시스가 될 순간을 기록해보아요!
 - 촬영물은 추억 아카이브에서 2주간 다운받을 수 있어요.<br/>
-  [![추억](img/파티_추억남기기_나가기.gif)](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/%ED%8C%8C%ED%8B%B0_%EC%B6%94%EC%96%B5%EB%82%A8%EA%B8%B0%EA%B8%B0_%EB%82%98%EA%B0%80%EA%B8%B0.gif)
+  ![추억](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/%ED%8C%8C%ED%8B%B0_%EC%B6%94%EC%96%B5%EB%82%A8%EA%B8%B0%EA%B8%B0_%EB%82%98%EA%B0%80%EA%B8%B0.gif)
 
 #### 실시간 경기 정보 제공
 
 - 저 선수 이름이 뭐였지?
 - TV보다가 문득 저 선수가 누군지 궁금하지 않으셨나요?
 - 원클릭으로 경기 실황을 한 번에 알아보아요!<br/>
-  [![실시간경기정보](img/파티_경기정보확인.gif)](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/%ED%8C%8C%ED%8B%B0_%EA%B2%BD%EA%B8%B0%EC%A0%95%EB%B3%B4%ED%99%95%EC%9D%B8.gif)
+  ![실시간경기정보](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/%ED%8C%8C%ED%8B%B0_%EA%B2%BD%EA%B8%B0%EC%A0%95%EB%B3%B4%ED%99%95%EC%9D%B8.gif)
 
 ### 축구 정보 제공
 
 - 다른 사이트 찾아가지 마세요! 다양한 축구 정보를 우리 사이트에서는 무료로 제공합니다!
 - 내가 팔로우 하고 있는 팀 경기를 놓치지 않도록 알림을 제공합니다!<br/>
-  [![경기일정](img/축구정보_경기일정.gif)](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/%EC%B6%95%EA%B5%AC%EC%A0%95%EB%B3%B4_%EA%B2%BD%EA%B8%B0%EC%9D%BC%EC%A0%95.gif)
-  [![리그정보](img/축구정보_리그정보.gif)](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/%EC%B6%95%EA%B5%AC%EC%A0%95%EB%B3%B4_%EB%A6%AC%EA%B7%B8%EC%A0%95%EB%B3%B4.gif)
+  ![경기일정](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/%EC%B6%95%EA%B5%AC%EC%A0%95%EB%B3%B4_%EA%B2%BD%EA%B8%B0%EC%9D%BC%EC%A0%95.gif)
+  ![리그정보](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/%EC%B6%95%EA%B5%AC%EC%A0%95%EB%B3%B4_%EB%A6%AC%EA%B7%B8%EC%A0%95%EB%B3%B4.gif)
 
 ### 응원 집계 현황
 
 - 다른 사람들은 누굴 응원할까? 응원 집계 현황을 실시간으로 즐겨보아요!<br/>
-  [![응원](img/축구정보_응원_경기일정.gif)](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/%EC%B6%95%EA%B5%AC%EC%A0%95%EB%B3%B4_%EC%9D%91%EC%9B%90_%EA%B2%BD%EA%B8%B0%EC%9D%BC%EC%A0%95.gif)
+  ![응원](https://github.com/SPOPARTY/SPOPARTY/raw/develop/img/%EC%B6%95%EA%B5%AC%EC%A0%95%EB%B3%B4_%EC%9D%91%EC%9B%90_%EA%B2%BD%EA%B8%B0%EC%9D%BC%EC%A0%95.gif)
 
 <br/>
 
@@ -321,11 +321,11 @@ Project
 
 |                   Jira 누적흐름 다이어그램                    |
 |:----------------------------------------------------:|
-| <img src="img/Jira.PNG" alt="Jira BurnDown Chart" /> |
+| <img src="https://github.com/SPOPARTY/SPOPARTY/blob/982bd4d28de65aef5a0fd57f87994774e4b92eae/img/Jira.PNG" alt="Jira BurnDown Chart" /> |
 
 | <a href="https://www.notion.so/6D-project-a6f5e07de61549f5a099f038e14be080">Notion</a> |
 |:--------------------------------------------------------------------------------------:|
-|                       <img src="img/notion.png" alt="Notion" />                        |
+|                       <img src="https://github.com/SPOPARTY/SPOPARTY/blob/982bd4d28de65aef5a0fd57f87994774e4b92eae/img/notion.png" alt="Notion" />                        |
 
 <br />
 
@@ -336,17 +336,17 @@ Project
 <table>
     <tr>
         <td height="140px" align="center"> <a href="https://github.com/gogoadl">
-            <img src="img/박현우.png" width="140px" /> <br><br> 👑 박현우 <br>(Back-End) </a> <br></td>
+            <img src="https://github.com/SPOPARTY/SPOPARTY/blob/982bd4d28de65aef5a0fd57f87994774e4b92eae/img/%EB%B0%95%ED%98%84%EC%9A%B0.png" width="140px" /> <br><br> 👑 박현우 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/jongbum97">
-            <img src="img/김종범.png" width="140px" /> <br><br> 김종범 <br>(Back-End) </a> <br></td>
+            <img src="https://github.com/SPOPARTY/SPOPARTY/blob/982bd4d28de65aef5a0fd57f87994774e4b92eae/img/%EA%B9%80%EC%A2%85%EB%B2%94.png" width="140px" /> <br><br> 김종범 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/hrlee12">
-            <img src="img/이효리.jpeg" width="140px"  /> <br><br> 이효리 <br>(Back-End) </a> <br></td>
+            <img src="https://github.com/SPOPARTY/SPOPARTY/blob/982bd4d28de65aef5a0fd57f87994774e4b92eae/img/%EC%9D%B4%ED%9A%A8%EB%A6%AC.jpeg" width="140px"  /> <br><br> 이효리 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/eun-byeol">
-            <img src="img/조은별.png" width="140px" /> <br><br> 조은별 <br>(Back-End) </a> <br></td>
+            <img src="https://github.com/SPOPARTY/SPOPARTY/blob/982bd4d28de65aef5a0fd57f87994774e4b92eae/img/%EC%A1%B0%EC%9D%80%EB%B3%84.png" width="140px" /> <br><br> 조은별 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/jshEIT">
-            <img src="img/장승호.png" width="140px" /> <br><br> 장승호 <br>(Front-End) </a> <br></td>
+            <img src="https://github.com/SPOPARTY/SPOPARTY/blob/982bd4d28de65aef5a0fd57f87994774e4b92eae/img/%EC%9E%A5%EC%8A%B9%ED%98%B8.png" width="140px" /> <br><br> 장승호 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/com2s">
-            <img src="img/황인규.png" width="140px" /> <br><br> 황인규 <br>(Front-End) </a> <br></td>
+            <img src="https://github.com/SPOPARTY/SPOPARTY/blob/982bd4d28de65aef5a0fd57f87994774e4b92eae/img/%ED%99%A9%EC%9D%B8%EA%B7%9C.png" width="140px" /> <br><br> 황인규 <br>(Front-End) </a> <br></td>
     </tr>
     <tr>
         <td align="center">Infra<br/>Openvidu api<br/>채팅 api<br/>
@@ -400,7 +400,7 @@ Project
 |:-----------:|:------------------------------------:|:----------------------------------------:|
 |     22      |                 SSH                  |
 |     443     |                HTTPS                 |
-|     80      | HTTP - HTTPS로 리다이렉트(프론트 페이지지로 리다이렉트) |
+|     80      | HTTP - HTTPS로 리다이렉트(프론트 페이지로 리다이렉트) |
 |    6379     |        Redis Docker Container        |
 |    8080     |       Jenkins Docker Container       |
 |    9090     |     Spring boot Docker Container     |
